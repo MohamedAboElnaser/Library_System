@@ -1,7 +1,7 @@
 # Description 
 this project is implementation of [these](https://drive.google.com/drive/folders/1da0eFTms_1pLt35O0JCYx1zZjO1x4ObT?usp=sharing) requirements
 
-- It is a simple consle Library System that contains 10 main options :
+- It is a simple console Library System that contains 10 main options :
    
    - [Add Book](#add-book)
    - [Search Book By Prefix](#search-book-by-prefix)
