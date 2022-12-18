@@ -8,7 +8,8 @@ class System {
 private:
 	DataBase liberary_DB;
 		      // idx      id   name
-	vector<pair<int,pair<int,string>>> books_index ;  //instead of sorting all library database just sort indexes
+	vector<pair<int,pair<int,string>>> books_index ;  
+	//instead of sorting all library database just sort vector of indexes
 	int len=0  ; // for indxing in books_index vector      
 	int books_number;
 	int users_number;
